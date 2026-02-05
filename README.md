@@ -6,6 +6,10 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Tech](https://img.shields.io/badge/Built%20With-React%20%7C%20TypeScript%20%7C%20Tailwind-blueviolet?style=flat-square)
 
+## 🌐 Versão Online (Beta)
+
+Jogue a versão hospedada (Beta) aqui: https://auto-tycoon-beta.vercel.app/
+
 O **Auto Tycoon** é um jogo de estratégia e gerenciamento (Tycoon) desenvolvido com **React** e **TypeScript**, focado na complexidade da engenharia automotiva e na gestão empresarial. O jogador assume o papel de CEO de uma nova montadora, desde a garagem de fundo de quintal até se tornar uma lenda global do automobilismo.
 
 ---
