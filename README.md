@@ -12,16 +12,6 @@ Jogue a versão hospedada (Beta) aqui: https://auto-tycoon-beta.vercel.app/
 
 O **Auto Tycoon** é um jogo de estratégia e gerenciamento (Tycoon) desenvolvido com **React** e **TypeScript**, focado na complexidade da engenharia automotiva e na gestão empresarial. O jogador assume o papel de CEO de uma nova montadora, desde a garagem de fundo de quintal até se tornar uma lenda global do automobilismo.
 
----
-
-## 📸 Screenshots
-
-| Dashboard | Engine Lab |
-|:---:|:---:|
-| *(Adicione um print do Dashboard aqui)* | *(Adicione um print do Editor de Motores aqui)* |
-
----
-
 ## 🎮 Funcionalidades Principais
 
 ### 🛠️ Engenharia e Design
